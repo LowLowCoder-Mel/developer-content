@@ -25,7 +25,7 @@ altRoutes:
 
 ## What is Stake-weighted Quality of Service (QoS)?
 
-Stake-weighed QoS (Quality-of-Service) is an implementation feature which, when
+Stake-weighted QoS (Quality-of-Service) is an implementation feature which, when
 enabled, allows leaders (block producers) to identify and prioritize
 transactions proxied through a staked validator as an additional sybil
 resistance mechanism. Given that Solana is a proof of stake network, it is
